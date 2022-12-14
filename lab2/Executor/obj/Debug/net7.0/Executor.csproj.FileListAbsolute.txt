@@ -1,0 +1,15 @@
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/bin/Debug/net7.0/Executor
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/bin/Debug/net7.0/Executor.deps.json
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/bin/Debug/net7.0/Executor.runtimeconfig.json
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/bin/Debug/net7.0/Executor.dll
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/bin/Debug/net7.0/Executor.pdb
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.csproj.AssemblyReference.cache
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.AssemblyInfoInputs.cache
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.AssemblyInfo.cs
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.csproj.CoreCompileInputs.cache
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.dll
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/refint/Executor.dll
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.pdb
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/Executor.genruntimeconfig.cache
+/Users/enrico/Library/CloudStorage/OneDrive-unige.it/tap/laboratori-tap/lab2/Executor/obj/Debug/net7.0/ref/Executor.dll
